@@ -13,7 +13,6 @@
 - You will need Java14 environment for running this code.
 
 ## Bugs 
-- In case the code is not running, you can copy paste the code on your Main.java file in your IntelliJ platform. Keep in mind the change the Public Class from Public Class amongus to Public Class Main if you wish to run it.  
-- I faced a small issue while downloading it and running the code, I chose to copy paste and make the public class changes as previously mentioned. 
+- In case the code is not running, you can copy paste the code on your Main.java file in your IntelliJ platform. 
 
 Have fun!!!
