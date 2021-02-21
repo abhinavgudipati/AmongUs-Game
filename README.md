@@ -15,4 +15,4 @@
 ## Bugs 
 - In case the code is not running on your default terminal, you can copy paste the code on your Main.java file in your IntelliJ platform. 
 
-Have fun!!!
+Have Fun and Happy Coding! 
